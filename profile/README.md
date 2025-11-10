@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="140" src="https://raw.githubusercontent.com/elixir-horde/.github/main/profile/logo.png" />
+</p>
+
 # Elixir Horde
 
 This space brings together projects focused on **distributed systems**, **fault-tolerant supervision**, and **global process registration** in the Elixir ecosystem.
