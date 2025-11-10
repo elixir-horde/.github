@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/logo.png" alt="Elixir Horde banner" />
+  <img src="./logo.png" alt="Elixir Horde banner" />
 </p>
 
 # Elixir Horde
