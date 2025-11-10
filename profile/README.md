@@ -34,5 +34,5 @@ Check out our repositories, join conversations, and help shape the future of dis
 
 If you are working on distributed Elixir or have ideas for collaboration, we’d love to hear from you!
 
-* GitHub Discussions: (coming soon)
+* GitHub Discussions: https://github.com/orgs/elixir-horde/discussions
 * Issues & Contributions: In each project repository
