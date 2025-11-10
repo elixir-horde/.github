@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://raw.githubusercontent.com/elixir-horde/.github/main/profile/logo.png" />
+  <img src="./profile/logo.png" alt="Elixir Horde banner" />
 </p>
 
 # Elixir Horde
